@@ -1,0 +1,2 @@
+File,Path,Size(Bytes),Entropy,XOR-Like,AES-ECB-Like,Suspicious Extension,Header Type,SHA256,Suspected Encrypted
+xor_test.enc,test_samples/xor_test.enc,51,4.611,False,False,True,Plaintext or Unknown,2ac623d1a4f942eec280bb200fe32e534ff4deb6c450c0933264c97925c6c007,True
